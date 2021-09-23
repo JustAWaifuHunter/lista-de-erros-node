@@ -1,15 +1,15 @@
 # Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 14%; width: 14%;"/>
 
 - [Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 5%; width: 5%;"/>](#lista-de-erros-)
-    - [1 - Cannot find module](#1---cannot-find-module)
+    - [Cannot find module](#1---cannot-find-module)
         - [Como resolver](#como-resolver)
-    - [2 - Is not defined](#2---is-not-defined)
+    - [Is not defined](#2---is-not-defined)
         - [Como resolver](#como-resolver-1)
-    - [Is not a function](#is-not-a-function)
+    - [Is not a function](#3---is-not-a-function)
         - [Como resolver](#como-resolver-2)
-    - [Unexpected token](#unexpected-token)
+    - [Unexpected token](#4---unexpected-token)
         - [Como resolver](#como-resolver-3)
-    - [Is not a constructor](#is-not-a-constructor)
+    - [Is not a constructor](#5---is-not-a-constructor)
         - [Como resolver](#como-resolver-4)
     - [Mais Informações](#mais-informações)
 
