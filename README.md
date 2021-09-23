@@ -42,19 +42,19 @@ Significa que certa property, variável não foi definida.
 - Faça um if para verificar se a property não é do tipo undefined. (Exemplo: if (typeof property !== 'undefined') // seu código)
 
 
-### Is not a function
+### 3 - Is not a function
 Significa que tal property/variável não é uma função
 
 ##### Como resolver
 Remova os ()/.call()/.bind() dessa property/variável
 
-### Unexpected token
+### 4 - Unexpected token
 Siginifica que tal token/caráctere não foi esperado
 
 ##### Como resolver
 Remova esse caráctere
 
-### Is not a constructor
+### 5 - Is not a constructor
 Significa que tal função/classe não é um constructor
 
 ##### Como resolver
