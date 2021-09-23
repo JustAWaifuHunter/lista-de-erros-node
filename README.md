@@ -1,6 +1,6 @@
-# Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 24%; width: 24%;"/>
+# Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 14%; width: 14%;"/>
 
-- [Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 24%; width: 24%;"/>](#lista-de-erros-)
+- [Lista de erros <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS" style="height: 5%; width: 5%;"/>](#lista-de-erros-)
     - [1 - Cannot find module](#1---cannot-find-module)
         - [Como resolver](#como-resolver)
     - [2 - Is not defined](#2---is-not-defined)
